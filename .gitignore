@@ -1,5 +1,4 @@
 # 个人 bomb 由 make bomb 下载，不需要提交
-/bomb
 /package.json
 # 编译产物
 /defuser
@@ -14,3 +13,5 @@ __pycache__/
 !/teaching/*.c
 !/teaching/Makefile
 !/teaching/README.md
+#反汇编
+*.S
